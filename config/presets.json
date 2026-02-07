@@ -57,7 +57,7 @@
   "c_1770460986546": {
     "name": "3D",
     "suffix": "masterpiece, best quality, ultra-detailed, cinematic lighting, soft shading, anime style, Chinese xianxia aesthetic, 5::masterpiece, best quality ::, 3.65::3D, realistic, photorealistic ::, 1.75::Artist:jagercoke ::,1.55::Artist:tangerine_(dudu) ::, 1.15::Artist:nixeu ::, 0.65::Artist:naohiro_ito ::,1.25::Artist:bm94199 ::,1.05::artist:seven_(sixplusone) ::,-5::2D ::, year2025,",
-    "neg": "low quality, worst quality,artist collaboration ,bad anatomy,extra fingers,extra legs, missing legs, missing fingers, unnatural body, bad proportions, deformed hands, unrealistic eyes, plastic skin, doll-like, blurry background, poorly drawn face, text, watermark, abstract background, low resolution,ugly,",
+    "neg": "low quality, worst quality,artist collaboration ,bad anatomy,extra fingers,extra legs, missing legs, missing fingers, unnatural body, bad proportions, deformed hands, unrealistic eyes, plastic skin, doll-like, blurry background, poorly drawn face, text, watermark, abstract background, low resolution,ugly,old，",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
