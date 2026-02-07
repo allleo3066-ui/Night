@@ -63,5 +63,15 @@
     "scale": 6,
     "smea": false,
     "variety": false
+  },
+  "c_1770462074084": {
+    "name": "2.5",
+    "suffix": "piratescat01,[tsuki_no_i-min],[[love_cacao]],[bm94199],yumeto_(ym-1),[[nanoda002_(saber427)]]\n\nshiny lips,\n\nspeech_bubble\n\nsolo,year 2025,",
+    "neg": "low quality, worst quality,artist collaboration ,bad anatomy,extra fingers,extra legs, missing legs, missing fingers, unnatural body, bad proportions, deformed hands, unrealistic eyes, plastic skin, doll-like, blurry background, poorly drawn face, text, watermark, abstract background, low resolution,ugly,old，",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 5.5,
+    "smea": false,
+    "variety": false
   }
 }
